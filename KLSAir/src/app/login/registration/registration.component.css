@@ -1,0 +1,10 @@
+.card {
+  top: 50px;
+  /*height: 350px;*/
+  /*width: 300px;*/
+  background-color: rgba(30, 154, 117, 0.34);
+}
+
+h3 {
+  text-align: center;
+}
